@@ -277,7 +277,7 @@ This project is licensed under the MIT License.
 
 **Building intelligent systems that deliver measurable outcomes.**
 
-Website: https://oracle69.org *(update when available)*
+Website: https://oracle69.com *(update when available)*
 
 ---
 

@@ -1,0 +1,6 @@
+{
+  "name": "TessyFarm Nexus AI Agent",
+  "description": "Africa's AI Operating System for Agriculture, supporting smallholder farmers with crop advice, market intelligence, and farm financial planning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

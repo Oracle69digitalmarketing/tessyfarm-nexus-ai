@@ -264,8 +264,7 @@ Oracle69 Systems designs AI-powered operational systems that automate work, impr
 
 📧 **Email:** adewaleadewumi78@gmail.com
 
----
+
 
 **Let's build the future of agriculture with AI.**
 
----

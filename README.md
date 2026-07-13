@@ -1,7 +1,9 @@
 
 ---
 
-TessyFarm Nexus AI
+<p align="center">
+  <img src="assets/banner.png" alt="TessyFarm Nexus AI Banner" width="100%">
+</p>
 
 > Building Africa's AI Operating System for Agriculture.
 

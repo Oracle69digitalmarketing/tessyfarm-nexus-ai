@@ -1,444 +1,331 @@
-# 🌾 TessyFarm Nexus AI
+Excellent. We'll make TessyFarm Nexus AI the benchmark for every future Oracle69 repository.
 
-<h3 align="center">Building Africa's AI Operating System for Agriculture</h3>
+Here's the structure we'll build.
 
-<p align="center">
-An AI-powered agricultural decision-support platform helping African smallholder farmers make better production, market, financial, and climate decisions.
-</p>
-
-<p align="center">
-
-![Status](https://img.shields.io/badge/Status-Prototype-success)
-![NextGen](https://img.shields.io/badge/NextGen-Knowledge_Showcase_2026-green)
-![React](https://img.shields.io/badge/React-19-61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6)
-![Groq](https://img.shields.io/badge/AI-Groq-orange)
-![License](https://img.shields.io/badge/License-MIT-blue)
-
-</p>
 
 ---
 
-# 🚀 Live Demo
+TessyFarm Nexus AI
 
-### 🌐 Application
+> Building Africa's AI Operating System for Agriculture.
 
-https://tessyfarm-nexus-ai.onrender.com/
 
-### 🎥 Demonstration Video
 
-https://youtube.com/shorts/RqQWogYV4uA
+An AI-powered platform that helps farmers, cooperatives, agribusinesses, processors, financial institutions, and governments make smarter decisions through intelligent automation, market intelligence, predictive analytics, and AI agents.
 
-### 💻 GitHub Repository
+Developed by Oracle69 Systems.
 
-https://github.com/Oracle69digitalmarketing/tessyfarm-nexus-ai
 
 ---
 
-# 📖 Overview
+Vision
 
-TessyFarm Nexus AI is an AI-powered agricultural operating system that empowers African smallholder farmers with intelligent decision support across production, markets, finance, climate resilience, and digital farm management.
+Africa's agricultural sector loses billions annually due to fragmented information, poor market coordination, inefficient logistics, and limited access to real-time decision support.
 
-Rather than functioning as a simple agricultural chatbot, TessyFarm Nexus AI combines multiple AI agents into one integrated platform that continuously supports farmers throughout the agricultural value chain.
+TessyFarm Nexus AI is designed to become the operating system that connects farmers, buyers, logistics providers, financial institutions, extension officers, and policymakers through one intelligent platform.
 
-The platform delivers contextual recommendations based on each farmer's:
+Our mission is simple:
 
-- Location
-- Farming type
-- Crop or livestock
-- Farm size
-- Farming experience
-- Current farming challenges
+> Transform African agriculture into an AI-powered, data-driven ecosystem that increases productivity, profitability, and resilience.
 
-The result is practical, personalized guidance that improves productivity, profitability, and resilience.
+
+
 
 ---
 
-# 🌍 The Challenge
+Problems We Solve
 
-Across Nigeria and much of Africa, millions of farmers face:
+Poor market access
 
-- Limited access to agricultural extension services
-- Climate uncertainty
-- Poor market access
-- Rising input costs
-- Post-harvest losses
-- Limited financial planning
-- Poor farm record keeping
-- Limited access to formal credit
+Post-harvest losses
 
-Most existing digital agriculture solutions solve only one of these problems.
+Inefficient logistics
 
-TessyFarm Nexus AI unifies them into a single intelligent platform.
+Low farmer productivity
 
----
+Limited access to agricultural knowledge
 
-# 💡 Solution
+Poor price transparency
 
-TessyFarm Nexus AI serves as an intelligent agricultural operating system that helps farmers make informed decisions before, during, and after production.
+Weak supply chain coordination
 
-Every farmer begins by creating a digital profile containing:
+Lack of AI-powered decision support
 
-- Name
-- Location
-- Farming type
-- Farm size
-- Main crop/livestock
-- Experience level
-- Current challenge
 
-The AI then personalizes recommendations across every module of the platform.
 
 ---
 
-# 🧠 Core AI Modules
+Core Modules
 
-## 🌱 AI Farm Advisor
+AI Farm Advisor
 
-Provides intelligent support for:
+Provides crop recommendations, disease diagnosis, fertilizer guidance, and farming best practices using conversational AI.
 
-- Crop management
-- Livestock production
-- Aquaculture
-- Pest diagnosis
-- Disease management
-- Soil health
-- Climate-smart farming
 
 ---
 
-## 📈 AI Market Intelligence
+Market Intelligence
 
-Helps farmers:
+Tracks commodity prices, demand forecasts, buyer opportunities, and regional market trends.
 
-- Understand market trends
-- Discover buyers
-- Compare prices
-- Reduce post-harvest losses
-- Improve marketing decisions
 
 ---
 
-## 💰 AI Finance Assistant
+Logistics Intelligence
 
-Supports:
+Coordinates transportation, aggregation centers, warehouses, and delivery routes.
 
-- Farm budgeting
-- Cost estimation
-- Profitability analysis
-- Expansion planning
-- Credit readiness
 
 ---
 
-## 🌦 Climate Intelligence
+Financial Intelligence
 
-Provides:
+Supports budgeting, farm profitability analysis, credit readiness, and investment planning.
 
-- Weather awareness
-- Seasonal planning
-- Climate adaptation recommendations
-- Risk management insights
 
 ---
 
-## 🛡 AI Farm Resilience Assessment
+Knowledge Engine
 
-Measures:
+Maintains an institutional knowledge base for farmers, cooperatives, and agricultural organizations.
 
-- Climate resilience
-- Adaptive capacity
-- Sustainability
-- Farm readiness
 
 ---
 
-## 🪪 Digital Farm Passport
+AI Agent Platform
 
-Creates a digital identity for farms supporting:
+Specialized AI agents collaborate to automate agricultural operations and decision-making.
 
-- Farm records
-- Traceability
-- Compliance
-- Future certification
-- Market access
+Examples include:
 
----
+Agronomist Agent
 
-## 📚 Knowledge Centre
+Market Agent
 
-A structured agricultural knowledge base covering:
+Logistics Agent
 
-- Crop production
-- Livestock
-- Aquaculture
-- Finance
-- Climate
-- Post-harvest management
-- Best practices
+Finance Agent
+
+Compliance Agent
+
+Weather Agent
+
+
 
 ---
 
-## 📊 AI Reports
+Key Features
 
-Automatically generates:
+AI-powered crop advisory
 
-- Farm Health Reports
-- Financial Reports
-- Market Reports
-- Recommended Actions
-- Decision Support Summaries
+Market forecasting
 
----
+Smart logistics planning
 
-# 👨‍🌾 Farmer Journey
+Farmer profiling
 
-```text
-Farmer Registration
-        │
-        ▼
-Digital Farmer Profile
-        │
-        ▼
-AI Personalization
-        │
-        ▼
-Farmer Dashboard
-        │
-        ▼
-AI Decision Support
-        │
-        ▼
-Recommended Actions
-        │
-        ▼
-Higher Productivity
-Higher Income
-Greater Climate Resilience
-```
+Digital extension services
+
+Cooperative management
+
+Commodity marketplace
+
+Analytics dashboard
+
+AI chat assistant
+
+Offline-first architecture
+
+Mobile-first experience
+
+Multi-language support
+
+
 
 ---
 
-# 🏗 Platform Architecture
+Technology Stack
 
-```text
-                  TessyFarm Nexus AI
+Frontend
 
-                          │
+React
 
-    ┌──────────────┬──────────────┬──────────────┐
-    │              │              │
-Farm Advisor   Market AI    Finance AI
-    │              │              │
-    └──────────────┴──────────────┘
-               │
-        Climate Intelligence
-               │
-      Knowledge & Decision Engine
-               │
-      Personalized Farmer Dashboard
-```
+TypeScript
 
----
+Tailwind CSS
 
-# ✨ Key Features
+Vite
 
-- AI-powered farmer onboarding
-- Personalized dashboard
-- Multi-agent AI architecture
-- Market intelligence
-- Financial planning
-- Farm resilience scoring
-- Digital farm passport
-- Mobile-first experience
-- AI-ready architecture
-- Secure API integration
 
----
+Backend
 
-# 👥 Target Users
+Node.js
 
-- Smallholder Farmers
-- Farmer Cooperatives
-- Agricultural SMEs
-- Extension Officers
-- Development Organizations
-- NGOs
-- Ministries of Agriculture
-- Financial Institutions
+Express.js
 
----
 
-# 🌍 Expected Impact
+Database
 
-TessyFarm Nexus AI aims to:
+PostgreSQL
 
-- Improve agricultural productivity
-- Increase farmer incomes
-- Reduce post-harvest losses
-- Strengthen climate resilience
-- Improve market access
-- Promote financial inclusion
-- Digitize agricultural records
-- Support sustainable food systems
+Firebase
+
+
+Artificial Intelligence
+
+Gemini
+
+Groq
+
+OpenAI-compatible LLMs
+
+
+Infrastructure
+
+Docker
+
+GitHub Actions
+
+Vercel
+
+Render
+
+
 
 ---
 
-# 🎯 Sustainable Development Goals
+System Architecture
 
-This project contributes to:
+Farmer / Buyer / Cooperative
+            │
+            ▼
+      Web & Mobile Apps
+            │
+            ▼
+      API Gateway
+            │
+ ┌──────────┼──────────┐
+ │          │          │
+ ▼          ▼          ▼
+AI Agents  Analytics  Knowledge Engine
+ │          │          │
+ └──────────┼──────────┘
+            ▼
+      PostgreSQL + Firebase
 
-- 🌾 SDG 2 — Zero Hunger
-- 💼 SDG 8 — Decent Work & Economic Growth
-- 🏗 SDG 9 — Industry, Innovation & Infrastructure
-- 🌍 SDG 13 — Climate Action
-
----
-
-# ⚙ Technology Stack
-
-## Frontend
-
-- React
-- TypeScript
-- Vite
-
-## Backend
-
-- Node.js
-- Express
-
-## Artificial Intelligence
-
-- Groq API
-- Large Language Models
-- AI Agent Architecture
-
-## Deployment
-
-- Render
-
-## Version Control
-
-- Git & GitHub
 
 ---
 
-# 📂 Repository Structure
+Repository Structure
 
-```text
-tessyfarm-nexus-ai/
-│
-├── docs/
-│   ├── Executive Summary.pdf
-│   ├── Pitch Deck.pdf
-│   ├── screenshots/
-│   └── architecture/
-│
-├── public/
-├── src/
-├── package.json
-├── README.md
-└── LICENSE
-```
+src/
+components/
+pages/
+hooks/
+services/
+api/
+database/
+public/
+docs/
+assets/
+
 
 ---
 
-# 📸 Application Preview
+Roadmap
 
-The project includes:
+Phase 1
 
-- Landing Page
-- Farmer Registration
-- Personalized Dashboard
-- AI Farm Advisor
-- AI Market Intelligence
-- AI Finance Assistant
-- Farm Resilience Score
-- Digital Farm Passport
+Core platform
 
-Application screenshots are available in the **docs/screenshots** directory.
+Farmer onboarding
 
----
+Dashboard
 
-# 🗺 Roadmap
+AI chat assistant
 
-## Phase 1 (Current MVP)
 
-- AI Farm Advisor
-- Market Intelligence
-- Finance Assistant
-- Personalized Dashboard
-- Digital Farm Passport
+Phase 2
 
-## Phase 2
+Market Intelligence
 
-- Voice Assistant
-- Weather Forecast Integration
-- Multi-language Support
-- Extension Officer Portal
+Logistics Engine
 
-## Phase 3
+Cooperative Portal
 
-- Satellite Imagery
-- IoT Farm Sensors
-- Crop Yield Prediction
-- Disease Detection
-- Logistics Intelligence
+Buyer Portal
 
-## Phase 4
 
-- Multi-Agent Agricultural Operating System
-- Pan-African Deployment
-- Government Integration
-- Cooperative Management Platform
+Phase 3
+
+Satellite imagery
+
+IoT sensor integration
+
+Drone support
+
+Offline synchronization
+
+
+Phase 4
+
+Multi-country deployment
+
+Carbon credit tracking
+
+Export marketplace
+
+Agricultural finance ecosystem
+
+
 
 ---
 
-# 🏆 NextGen Knowledge Showcase 2026
+Screenshots
 
-TessyFarm Nexus AI was developed as a prototype submission for the **NextGen Knowledge Showcase 2026**.
+> Screenshots and product demonstrations will be added as development progresses.
 
-The project demonstrates how Artificial Intelligence can empower African farmers through intelligent decision support across production, markets, finance, and climate resilience.
 
----
 
-# 🤝 Contributing
-
-Contributions, ideas, feedback, and partnerships are welcome.
-
-Please open an Issue or submit a Pull Request.
 
 ---
 
-# 📜 License
+Contributing
 
-This project is licensed under the MIT License.
+We welcome developers, researchers, agronomists, designers, and ecosystem partners interested in advancing AI for agriculture.
 
----
+1. Fork the repository.
 
-# 👨‍💻 Developed By
 
-## Oracle69 Systems
+2. Create a feature branch.
 
-**Building intelligent systems that deliver measurable outcomes.**
 
-Oracle69 Systems designs and develops AI-powered software, intelligent automation platforms, and digital operating systems that solve real-world challenges across agriculture, education, healthcare, SMEs, and public services.
+3. Commit your changes.
 
----
 
-# 🌍 Vision
+4. Open a Pull Request.
 
-> **To become Africa's trusted AI Operating System powering intelligent, resilient, and profitable agriculture.**
+
+
 
 ---
 
-<p align="center">
+License
 
-**TessyFarm Nexus AI**
+This project is released under the MIT License.
 
-*Building Africa's AI Operating System for Agriculture.*
 
-Made with ❤️ in Nigeria 🇳🇬 by **Oracle69 Systems**
+---
 
-</p>
+About Oracle69 Systems
+
+Oracle69 Systems builds AI-powered operational systems that automate work, improve decision-making, and deliver measurable outcomes across agriculture, healthcare, education, enterprise, and the public sector.
+
+Website: https://www.oracle69.com
+
+LinkedIn: https://www.linkedin.com/in/oracle69digitalmarketing
+
+Email: adewaleadewumi78@gmail.com
+
+
+---

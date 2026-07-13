@@ -1,9 +1,16 @@
+# 🌾 TessyFarm Nexus AI
 
+> Building Africa's AI Operating System for Agriculture.
 ---
 
 <p align="center">
   <img src="assets/banner.png" alt="TessyFarm Nexus AI Banner" width="100%">
 </p>
+
+![License](https://img.shields.io/badge/License-MIT-green)
+![Version](https://img.shields.io/badge/Version-v1.0-blue)
+![Status](https://img.shields.io/badge/Status-Active-success)
+![Built With](https://img.shields.io/badge/Built%20with-TypeScript-blue)
 
 > Building Africa's AI Operating System for Agriculture.
 
@@ -16,7 +23,7 @@ Developed by Oracle69 Systems.
 
 ---
 
-Vision
+## 🌍 Vision
 
 Africa's agricultural sector loses billions annually due to fragmented information, poor market coordination, inefficient logistics, and limited access to real-time decision support.
 
@@ -31,29 +38,20 @@ Our mission is simple:
 
 ---
 
-Problems We Solve
+## 🚜 Problems We Solve
 
-Poor market access
-
-Post-harvest losses
-
-Inefficient logistics
-
-Low farmer productivity
-
-Limited access to agricultural knowledge
-
-Poor price transparency
-
-Weak supply chain coordination
-
-Lack of AI-powered decision support
-
-
+- Poor market access
+- Post-harvest losses
+- Inefficient logistics
+- Low farmer productivity
+- Limited access to agricultural knowledge
+- Poor price transparency
+- Weak supply chain coordination
+- Lack of AI-powered decision support
 
 ---
 
-Core Modules
+## 🧩 Core Modules
 
 AI Farm Advisor
 
@@ -90,132 +88,100 @@ Maintains an institutional knowledge base for farmers, cooperatives, and agricul
 
 ---
 
-AI Agent Platform
+### AI Agent Platform
 
 Specialized AI agents collaborate to automate agricultural operations and decision-making.
 
-Examples include:
+**AI Agents include:**
 
-Agronomist Agent
-
-Market Agent
-
-Logistics Agent
-
-Finance Agent
-
-Compliance Agent
-
-Weather Agent
+- 🌱 Agronomist Agent
+- 📈 Market Intelligence Agent
+- 🚚 Logistics Agent
+- 💰 Finance Agent
+- 📋 Compliance Agent
+- 🌦️ Weather Intelligence Agent
 
 
 
 ---
 
-Key Features
+### ✨ Key Features
 
-AI-powered crop advisory
-
-Market forecasting
-
-Smart logistics planning
-
-Farmer profiling
-
-Digital extension services
-
-Cooperative management
-
-Commodity marketplace
-
-Analytics dashboard
-
-AI chat assistant
-
-Offline-first architecture
-
-Mobile-first experience
-
-Multi-language support
+- 🌾 AI-powered crop advisory
+- 📈 Market forecasting and price intelligence
+- 🚚 Smart logistics planning
+- 👨‍🌾 Farmer profiling and digital identity
+- 📚 Digital extension services
+- 🤝 Cooperative management
+- 🛒 Commodity marketplace
+- 📊 Real-time analytics dashboard
+- 🤖 AI chat assistant
+- 📱 Offline-first architecture
+- 📲 Mobile-first experience
+- 🌍 Multi-language support
 
 
 
 ---
 
-Technology Stack
+### 💻 Technology Stack
 
-Frontend
-
-React
-
-TypeScript
-
-Tailwind CSS
-
-Vite
-
-
-Backend
-
-Node.js
-
-Express.js
-
-
-Database
-
-PostgreSQL
-
-Firebase
-
-
-Artificial Intelligence
-
-Gemini
-
-Groq
-
-OpenAI-compatible LLMs
-
-
-Infrastructure
-
-Docker
-
-GitHub Actions
-
-Vercel
-
-Render
+| Layer | Technologies |
+|--------|--------------|
+| **Frontend** | React, TypeScript, Tailwind CSS, Vite |
+| **Backend** | Node.js, Express.js |
+| **Database** | PostgreSQL, Firebase |
+| **Artificial Intelligence** | Gemini, Groq, OpenAI-compatible LLMs |
+| **Infrastructure & DevOps** | Docker, GitHub Actions, Vercel, Render |
 
 
 
 ---
 
-System Architecture
+## 🏗️ Architecture
 
-Farmer / Buyer / Cooperative
-            │
-            ▼
-      Web & Mobile Apps
-            │
-            ▼
-      API Gateway
-            │
- ┌──────────┼──────────┐
- │          │          │
- ▼          ▼          ▼
-AI Agents  Analytics  Knowledge Engine
- │          │          │
- └──────────┼──────────┘
-            ▼
-      PostgreSQL + Firebase
+![](assets/architecture.png)
 
+### System Flow
+
+```text
+...
+
+```text
+Farmer
+   │
+   ▼
+Web / Mobile App
+   │
+   ▼
+AI Agent Layer
+ ├── Farm Advisor
+ ├── Market Intelligence
+ ├── Finance Assistant
+ └── Logistics Planner
+   │
+   ▼
+Knowledge Base
+   │
+   ▼
+Analytics Dashboard
+```
 
 ---
 
-Repository Structure
+## 📸 Screenshots
 
+| Dashboard | AI Assistant |
+|-----------|--------------|
+| ![](assets/dashboard.png) | ![](assets/chat.png) |
+
+| Market Intelligence | Farm Analytics |
+|----------------------|----------------|
+| ![](assets/market.png) | ![](assets/analytics.png) |
+
+## 📂 Repository Structure
+
+```text
 src/
 components/
 pages/
@@ -226,69 +192,41 @@ database/
 public/
 docs/
 assets/
+```
 
 
 ---
 
-Roadmap
+## 🚀 Roadmap
 
-Phase 1
+### Phase 1
+- [x] Core platform
+- [x] Farmer onboarding
+- [x] Dashboard
+- [x] AI Chat Assistant
 
-Core platform
+### Phase 2
+- [ ] Market Intelligence
+- [ ] Logistics Engine
+- [ ] Cooperative Portal
+- [ ] Buyer Portal
 
-Farmer onboarding
+### Phase 3
+- [ ] Satellite imagery
+- [ ] IoT sensor integration
+- [ ] Drone support
+- [ ] Offline synchronization
 
-Dashboard
-
-AI chat assistant
-
-
-Phase 2
-
-Market Intelligence
-
-Logistics Engine
-
-Cooperative Portal
-
-Buyer Portal
-
-
-Phase 3
-
-Satellite imagery
-
-IoT sensor integration
-
-Drone support
-
-Offline synchronization
-
-
-Phase 4
-
-Multi-country deployment
-
-Carbon credit tracking
-
-Export marketplace
-
-Agricultural finance ecosystem
-
+### Phase 4
+- [ ] Multi-country deployment
+- [ ] Carbon credit tracking
+- [ ] Export marketplace
+- [ ] Agricultural finance ecosystem
 
 
 ---
 
-Screenshots
-
-> Screenshots and product demonstrations will be added as development progresses.
-
-
-
-
----
-
-Contributing
+## 🤝 Contributing
 
 We welcome developers, researchers, agronomists, designers, and ecosystem partners interested in advancing AI for agriculture.
 
@@ -308,22 +246,26 @@ We welcome developers, researchers, agronomists, designers, and ecosystem partne
 
 ---
 
-License
+## 📄 License
 
 This project is released under the MIT License.
 
 
 ---
 
-About Oracle69 Systems
+```markdown
+## About Oracle69 Systems
 
-Oracle69 Systems builds AI-powered operational systems that automate work, improve decision-making, and deliver measurable outcomes across agriculture, healthcare, education, enterprise, and the public sector.
+Oracle69 Systems designs AI-powered operational systems that automate work, improve decision-making, and deliver measurable outcomes across agriculture, healthcare, education, enterprise, and the public sector.
 
-Website: https://www.oracle69.com
+🌐 **Website:** https://www.oracle69.com
 
-LinkedIn: https://www.linkedin.com/in/oracle69digitalmarketing
+💼 **LinkedIn:** https://www.linkedin.com/in/oracle69digitalmarketing
 
-Email: adewaleadewumi78@gmail.com
+📧 **Email:** adewaleadewumi78@gmail.com
 
+---
+
+**Let's build the future of agriculture with AI.**
 
 ---
